@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1> 
+<h1 align="center"> Hi there 👋 </h1>
 
 <p align="center">  I'm Abhinav Mahajan, a Software Engineer👨‍💻. I have been working as a React Native Engineer for last few years. </p>
 
@@ -18,6 +18,5 @@
  
 ##
 <div align="center" style="display: inline_block">
-<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrabhinavmahajan&show_icons=true&theme=radical"> -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrabhinavmahajan&layout=donut&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrabhinavmahajan&theme=radical&layout=compact">
 </div>
