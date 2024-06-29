@@ -15,9 +15,3 @@
     <a href = "https://dev.to/mrabhinavmahajan"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
   </div>
 </div>
- 
-##
-<div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrabhinavmahajan&theme=radical&layout=compact&rank_icon=github">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrabhinavmahajan&theme=radical&layout=donut">
-</div>
